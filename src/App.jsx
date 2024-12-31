@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+        <h1>My new update version</h1>
+    </div>
   )
 }
 
